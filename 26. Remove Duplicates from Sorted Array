@@ -1,0 +1,12 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int i=0; //pointer which starts from o pos
+        for(int j=1;j<nums.length;j++){
+            if(nums[i]!=nums[j]){
+                nums[i+1]=nums[j];
+                i++;
+            }
+        }
+        return i+1;         // bcoz i starts from zero and unique elements are i+1
+    }
+}
