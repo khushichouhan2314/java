@@ -1,0 +1,24 @@
+class Solution {
+    public boolean validMountainArray(int[] nums) {
+        int n = nums.length;
+        if(n<3) return false;
+        int peaks = 0;
+        
+        for(int i =1;i<n-1;i++){
+            
+            int current = nums[i];
+            int prev= nums[i-1];
+            int next = nums[i+1];
+            
+            if(prev>=current &&current<=next) return false;
+              if(prev==current ||current==next) return false;
+            if( prev<current && next<current){
+                peaks++;
+                
+                if (peaks>1) return false;
+            }
+        }
+        
+        return peaks==1;
+    }
+}
