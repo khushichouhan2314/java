@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushichouhan2314/java/tree/master/0014-longest-common-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/khushichouhan2314/java/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Trie
 |  |
 | ------- |
