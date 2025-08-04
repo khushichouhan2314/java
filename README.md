@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/khushichouhan2314/java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/khushichouhan2314/java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/khushichouhan2314/java/tree/master/0125-valid-palindrome) |
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
