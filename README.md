@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushichouhan2314/java/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/khushichouhan2314/java/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/khushichouhan2314/java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
