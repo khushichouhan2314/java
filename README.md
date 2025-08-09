@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/khushichouhan2314/java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/khushichouhan2314/java/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/khushichouhan2314/java/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
