@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/khushichouhan2314/java/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/khushichouhan2314/java/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/khushichouhan2314/java/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
