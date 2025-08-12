@@ -1,45 +1,32 @@
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Map;
-
+import java.util.*;
 class Solution {
-    
     public int characterReplacement(String s, int k) {
+        int left = 0;
+        int right = 0;
+        int maxlen= 0 ; 
+        int maxrepeat = 0;
+        int n = s.length();
 
-        int[] charCount = new int[26];
-        
-    
-        int windowStart = 0;
-       
-        int maxLength = 0;
-      
-        int maxCharCount = 0;
+       Map<Character,Integer> map= new HashMap<>();
+       for(right=0;right<n;right++){
+        char curr = s.charAt(right);
+        map.put(curr, map.getOrDefault(curr,0)+1);
 
-     
-        for (int windowEnd = 0; windowEnd < s.length(); windowEnd++) {
-            // Get the character at the current right pointer.
-            char rightChar = s.charAt(windowEnd);
-            
-          
-            charCount[rightChar - 'A']++;
-            
-         
-            maxCharCount = Math.max(maxCharCount, charCount[rightChar - 'A']);
-            
-      
-            if ((windowEnd - windowStart + 1) - maxCharCount > k) {
-           
-                char leftChar = s.charAt(windowStart);
-                
-         
-                charCount[leftChar - 'A']--;
-                
-                windowStart++;
-            }
-      
-            maxLength = Math.max(maxLength, windowEnd - windowStart + 1);
+        maxrepeat= Math.max(maxrepeat,map.get(curr));
+        int nonrepeat = (right-left+1)-maxrepeat;
+
+        if(nonrepeat>k){
+            map.put(s.charAt(left),map.get(s.charAt(left))-1);
+            left++;
         }
+
+        maxlen=Math.max(maxlen, right-left+1);
+
+       }
+
+       return maxlen;
+
+
         
-        return maxLength;
     }
 }
