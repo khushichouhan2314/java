@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/khushichouhan2314/java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushichouhan2314/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushichouhan2314/java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushichouhan2314/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushichouhan2314/java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushichouhan2314/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/khushichouhan2314/java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/khushichouhan2314/java/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
