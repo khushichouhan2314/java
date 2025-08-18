@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushichouhan2314/java/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushichouhan2314/java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/khushichouhan2314/java/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushichouhan2314/java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/khushichouhan2314/java/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/khushichouhan2314/java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/khushichouhan2314/java/tree/master/0882-peak-index-in-a-mountain-array) |
