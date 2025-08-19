@@ -1,15 +1,14 @@
 class Solution {
     public int mySqrt(int x) {
-        int root = 0;
-        for (int i = 0; i <= x; i++) {
-            long sq = (long)i*i;
-            if( sq > x) break;
-               
-            root = i;
-
-           
-        }
-        return root;
-
+        
+        int low= 1;
+        int high = x;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            long sq = (long) mid*mid;
+            if(sq==x)return mid;
+            else if (sq>x) high = mid-1; // go left
+            else low= mid+1;
+        } return high;
     }
 }
