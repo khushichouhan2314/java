@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/khushichouhan2314/java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/khushichouhan2314/java/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/khushichouhan2314/java/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/khushichouhan2314/java/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
