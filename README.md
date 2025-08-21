@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/khushichouhan2314/java/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/khushichouhan2314/java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/khushichouhan2314/java/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushichouhan2314/java/tree/master/0005-longest-palindromic-substring) |
+| [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +146,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/khushichouhan2314/java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/khushichouhan2314/java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/khushichouhan2314/java/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
