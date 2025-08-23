@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushichouhan2314/java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushichouhan2314/java/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/khushichouhan2314/java/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/khushichouhan2314/java/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushichouhan2314/java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushichouhan2314/java/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/khushichouhan2314/java/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/khushichouhan2314/java/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/khushichouhan2314/java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/khushichouhan2314/java/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/khushichouhan2314/java/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khushichouhan2314/java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khushichouhan2314/java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
