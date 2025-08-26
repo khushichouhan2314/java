@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/java/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khushichouhan2314/java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/khushichouhan2314/java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/khushichouhan2314/java/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/khushichouhan2314/java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/khushichouhan2314/java/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/khushichouhan2314/java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/khushichouhan2314/java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
