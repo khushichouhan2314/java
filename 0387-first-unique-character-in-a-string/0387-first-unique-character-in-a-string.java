@@ -1,21 +1,22 @@
+
+// key =letters value = frequency
 class Solution {
     public int firstUniqChar(String s) {
-        int[] count = new int[26];
         int n = s.length();
 
-    
+        HashMap<Character, Integer> f = new HashMap<>();
+
         for (int i = 0; i < n; i++) {
-            int freq = s.charAt(i) - 'a';
-            count[freq]++;
+            f.put(s.charAt(i), f.getOrDefault(s.charAt(i), 0) + 1); 
+            //write in hashmap the character at index i and give its current frequency
         }
 
-      
-        for (int i = 0; i < n; i++) {
-            int freq = s.charAt(i) - 'a';
-            if (count[freq] == 1) {
-                return i;  
+        for (int i = 0; i < n; i++) { //if frequency is 1 return the index
+            if (f.get(s.charAt(i)) == 1) {
+                return i;
             }
         }
-return -1;
-    }}
-    
+
+        return -1;
+    }
+}
