@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
 | [0953-reverse-only-letters](https://github.com/khushichouhan2314/java/tree/master/0953-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/khushichouhan2314/java/tree/master/1189-maximum-number-of-balloons) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/khushichouhan2314/java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/khushichouhan2314/java/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Array
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/khushichouhan2314/java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/khushichouhan2314/java/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/khushichouhan2314/java/tree/master/0648-replace-words) |
+| [1189-maximum-number-of-balloons](https://github.com/khushichouhan2314/java/tree/master/1189-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/khushichouhan2314/java/tree/master/1319-unique-number-of-occurrences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/khushichouhan2314/java/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Sorting
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/khushichouhan2314/java/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/khushichouhan2314/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/java/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/khushichouhan2314/java/tree/master/1189-maximum-number-of-balloons) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushichouhan2314/java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
