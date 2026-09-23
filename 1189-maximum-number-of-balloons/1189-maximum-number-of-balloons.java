@@ -13,3 +13,21 @@ class Solution {
         return Math.min(x2/2,x1);
     }
 }
+
+
+//OR
+//         int[] freq = new int[26];
+//         for(char c : text.toCharArray()){
+//             freq[c - 'a']++;
+//         }
+
+//         int ans = Math.min(
+//             Math.min(freq['b' - 'a'] , freq['a' - 'a']) , 
+//             Math.min(
+//                 Math.min(freq['l' - 'a'] / 2 , freq['o' - 'a'] / 2) , freq['n' - 'a']
+//             )
+//         );
+
+//         return ans;
+//     }
+// }
